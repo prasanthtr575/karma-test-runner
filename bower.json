@@ -1,0 +1,21 @@
+{
+  "name": "simple-karma",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Prasanth T R <mailprasanthtr@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "karma": "^0.4.6"
+  }
+}
